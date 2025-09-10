@@ -1,2 +1,1 @@
-console.log("JavScript");
-console.log("Version2");
+console.log("JavScript11");
